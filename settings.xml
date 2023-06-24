@@ -60,7 +60,7 @@ under the License.
        <repository>
          <id>nexus-snapshot-repo</id>
          <name>your custom repo</name>
-         <url>http://172.31.25.249:8081/repository/maven-java-webapp-repository/</url>
+         <url>http://172.31.25.249:8081/repository/</url>
        </repository>
 	   
      </repositories>
