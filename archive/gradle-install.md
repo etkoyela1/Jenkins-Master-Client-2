@@ -9,7 +9,7 @@
 sudo yum update -y
 sudo amazon-linux-extras install java-openjdk11 -y
 cd /opt
-sudo wget https://distfiles.macports.org/gradle/gradle-6.8.3-bin.zip
+54.82.54.106
 sudo unzip gradle-6.8.3-bin.zip
 vi .bash_profile
 export GRADLE_HOME=/opt/gradle-6.8.3
